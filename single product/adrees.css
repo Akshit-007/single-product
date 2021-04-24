@@ -1,0 +1,13 @@
+.contact,.address
+{
+    border: 1px solid black;
+    border-radius: 2rem;
+    margin: 30px;
+}
+ body{
+     background-color: rgba(238, 238, 238, 0.835);
+ }
+ .margin
+ {
+     margin: 20px;
+ }

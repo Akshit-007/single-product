@@ -1,0 +1,42 @@
+
+      /*description start*/
+        .description
+        {
+            border: 2px solid black;
+        }
+      /*description end*/
+
+
+      /*button start*/
+         .buttonn
+         {
+             display: flex;
+            align-items: center;
+            justify-content: center; 
+         }
+         .button1,.button2
+         {
+             margin: 30px;
+             padding: 20px;
+         }
+         a  
+         {
+             text-decoration: none;
+             color: white;
+         }
+    /*button end*/
+
+    /*text start*/
+    del
+    {
+        color: gray;
+    }
+         .spann
+         {
+             color: red;
+         }
+         .heading3
+         {
+             color: green;
+         }
+    /*text end*/
